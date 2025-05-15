@@ -166,10 +166,13 @@ GloVe and Word2Vec embedding providers
 
 Open-source Python libraries used: scikit-learn, XGBoost, Streamlit, NLTK, pandas, numpy
 
+## Visualizations
 
+### Model Performance Comparison (Bar Chart)
+![Model Performance Comparison](1.png)
 
+### Feature Combination Results (Text Output Screenshot)
+![Feature Combination Scores](2.jpg)
 
-
-
-
-![Image 1](image_1.png)
+### Model Performance Metrics (Heatmap)
+![Model Performance Heatmap](3.png)
